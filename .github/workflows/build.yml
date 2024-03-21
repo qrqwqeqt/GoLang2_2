@@ -15,7 +15,7 @@ jobs:
       - name: Setting GoLang
         uses: actions/setup-go@v2
         with:
-          go-version: 1.20
+          go-version: 1.22
 
       - name: Build
         run: make
@@ -28,7 +28,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v2
         with:
-          go-version: 1.20
+          go-version: 1.22
 
       - name: Test
         run: make test
