@@ -1,4 +1,4 @@
-module github.com/qrqwqeqt/Arch2pr
+module github.com/qrqwqeqt/GoLang2_2
 
 go 1.20
 
