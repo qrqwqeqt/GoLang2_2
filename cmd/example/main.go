@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	lab2 "github.com/qrqwqeqt/Arch2pr"
+	lab2 "github.com/qrqwqeqt/GoLang2_2"
 )
 
 var (
