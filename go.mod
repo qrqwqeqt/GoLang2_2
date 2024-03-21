@@ -1,13 +1,7 @@
-// TODO: Переіменуйте на власний модуль.
-module github.com/roman-mazur/architecture-lab-2
+module github.com/qrqwqeqt/Arch2pr
 
-go 1.22
-
-// TODO: Змініть, якщо вам потрібно використовувати іншу бібліотеку.
-require github.com/stretchr/testify v1.8.4
+go 1.20
 
 require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
+	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
 )
